@@ -1,3 +1,5 @@
 This is local file
 
-File edited online on github
+File was edited online on github
+
+file further edited on local machine
